@@ -24,14 +24,14 @@ Install dependencies:
 bash
 Copy code
 npm install
-# or
+
 yarn install
 Start the development server:
 
 bash
 Copy code
 npm start
-# or
+
 yarn start
 Open the application in your browser:
 
