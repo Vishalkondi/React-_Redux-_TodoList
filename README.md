@@ -1,5 +1,6 @@
 React-Redux Shopping Cart Application
 This project is a simple shopping cart application built using React.js and Redux Toolkit. It demonstrates how to manage global state effectively with Redux Toolkit while building a responsive and interactive UI.
+![Screenshot (30)](https://github.com/user-attachments/assets/9a312241-dd30-494e-baeb-0cbb1df2b3a1)
 
 Features
 Product Listing: Displays a list of products with details like name, price, and image.
