@@ -26,20 +26,18 @@ Install dependencies:
 bash
 Copy code
 npm install
-# or
 yarn install
 Start the development server:
 
 bash
 Copy code
 npm start
-# or
+
 yarn start
 Open the application in your browser:
 
-arduino
-Copy code
-http://localhost:3000
+
+
 📂 Project Structure
 plaintext
 Copy code
@@ -54,6 +52,7 @@ src/
 │   ├── store.js       # Redux store configuration
 ├── index.js           # React entry point
 ├── index.css          # Global styles
+
 🧠 Key Concepts
 React Components: Built using functional components such as Product and Cart.
 Redux Toolkit:
